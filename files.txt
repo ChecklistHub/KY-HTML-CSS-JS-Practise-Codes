@@ -6,4 +6,4 @@ Branch 1
 
 Master
 
-Main Commit
+main Commit
